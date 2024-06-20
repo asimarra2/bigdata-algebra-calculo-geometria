@@ -6,7 +6,7 @@
 
 - En la carpeta `notebooks` están los notebooks que vamos a ver en clase
 - En la carpeta `notebooks-completos` estarán los notebooks resueltos después de las clases
-- En la carpeta `practica` está la práctica
+- En la carpeta `practica` estará la práctica
 
 ## Requerimientos
 
