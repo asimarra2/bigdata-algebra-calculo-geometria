@@ -1,14 +1,14 @@
 # Módulo de algebra-calculo-geometria para creación de modelos
 
-¡Bienvenidos a este módulo del bootcamp!
+¡Módulo 2 del Bootcamp!
 
 ## Estructura del repositorio
 
-- En la carpeta `notebooks` están los notebooks que vamos a ver en clase
-- En la carpeta `notebooks-completos` estarán los notebooks resueltos después de las clases
-- En la carpeta `practica` estará la práctica
+- En la carpeta `notebooks` están los notebooks de la clase.
+- En la carpeta `notebooks-completos` estarán los notebooks con ejercicios resueltos.
+- En la carpeta `practica` estaran las prácticas.
 
 ## Requerimientos
 
-Necesitáis tener Python y Jupyter.
-
+- Python
+- Jupyter Notebook
